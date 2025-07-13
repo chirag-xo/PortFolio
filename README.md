@@ -1,4 +1,4 @@
-# 🚀 Priyanshu Patil | Interactive Portfolio
+# 🚀 Chirag Sachdeva | Interactive Portfolio
 
 A modern, interactive, and minimal portfolio built with **Next.js**, **React**, and **Tailwind CSS**. This portfolio showcases my projects, skills, and approach to frontend development with a focus on smooth animations, accessibility, and a delightful user experience.
 
@@ -121,7 +121,7 @@ Portfolio/
 
 Want to collaborate or have a project in mind?  
 Reach out via the [Contact](#contact) section or email me at:  
-**priyanshupatil.dev@gmail.com**
+**chiragsachdeva8150@gmail.com**
 
 ---
 
