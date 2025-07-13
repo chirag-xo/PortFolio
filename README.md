@@ -125,4 +125,4 @@ Reach out via the [Contact](#contact) section or email me at:
 
 ---
 
-> _Built and designed by Priyanshu Patil — 2025_
+> _Built and designed with ♥️ by Chirag Sachdeva — 2025_
