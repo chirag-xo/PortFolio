@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   title: "Chirag Sachdeva — Software Engineer | Frontend Developer",
   description: "Creative Frontend Developer",
   icons: {
-    icon: "/logo.png",
+    icon: "/favivon.png",
   },
 };
 

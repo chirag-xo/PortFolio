@@ -14,8 +14,8 @@ export const Footer = () => {
         <div className="absolute -z-10 h-[400px] w-[1600px] bottom-0 left-1/2 -translate-x-1/2 bg-emerald-300/30 [mask-image:radial-gradient(50%_50%_at_bottom_center,black,transparent)]"></div>
         <div className="container">
           <div className="border-t border-white/15 py-6 gap-8 text-sm md:flex-row md:justify-between flex flex-col items-center">
-            <div className="text-white/40">
-              &copy; 2025. All rights reserved.
+            <div className="text-white/40 text-center">
+              &copy; 2025. All rights reserved. Built with &hearts; by Chirag Sachdeva.
             </div>
 
             <nav className="grid grid-cols-2 gap-4 sm:grid-cols-2 md:flex md:flex-row items-center md:gap-6">

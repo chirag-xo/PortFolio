@@ -99,10 +99,7 @@ export const HeroSection = () => {
                 duration={3}
                 once
               >
-                I craft seamless , responsive user interfaces that don&apos;t
-                just look good - they feel intuitive and alive. With a passion
-                for clean code and pixel-perfect design, I bring ideas to life
-                on the web, one component at a time.
+                I craft seamless, responsive user interfaces that don&apos;t just look good - they feel intuitive and alive. With a passion for clean code and pixel-perfect design, I bring ideas to life on the web, one component at a time.
               </TextAnimate>
             </div>
           </div>
@@ -115,7 +112,7 @@ export const HeroSection = () => {
               <ArrowDonw className="size-4 -rotate-[130deg]" />
             </button>
             <a
-              href="https://drive.google.com/file/d/1EpANh-trazi9DsRYqijKa7eq1iQddA_h/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1bp3g1WDQjIfccg_FMAVqJk6iJi_w3xg-/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="cursor:pointer inline-flex items-center gap-2 border border-white bg-white text-gray-900 px-6 h-12 rounded-full"

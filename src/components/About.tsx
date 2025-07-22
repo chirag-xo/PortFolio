@@ -18,6 +18,7 @@ export const AboutSection = () => {
           </p>
           <div className="max-w-6xl mt-20 sm:mt-10 text-center">
             <div className="leading-10 font-light font-host-grotesk lg:text-2xl sm:text-lg md:text-xl tracking-wide">
+              
 
               <TextAnimate animation="blurInUp" by="character" duration={3}>
                 I&apos;m Chirag Sachdeva , a Frontend Developer who loves
