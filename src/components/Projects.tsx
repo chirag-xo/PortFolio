@@ -49,15 +49,15 @@ const portfolioProjects = [
   },
   {
     company: "Tech",
-    year: "Next.js, React, Tailwind CSS, TypeScript, Javascript , HTML , CSS , vercel",
+    year: "React, TypeScript, Vite, Tailwind CSS, OAuth2, Google Calendar API, Lucide React, chrono-node, vercel",
     title: "AI Booking Agent",
     results: [
-      { title: "Built a conversational AI interface that allows users to book appointments via natural language through a chat-based UI." },
-      { title: "Designed a stateful, multi-step conversation flow with custom agentService to extract user intent, handle time/date logic, and simulate availability checks." },
-      { title: "Architected with modular, component-based structure and service layers for clear separation of concerns and easy backend integration." },
-      { title: "Delivered a rich user experience with dynamic message rendering, quick replies, typing indicators, and interactive time selectors." },
+      { title: "Developed an AI-powered scheduling assistant with OAuth2 and Google Calendar API integration, enabling users to book and auto-sync meetings to their Google Calendar with real-time confirmation." },
+      { title: "Implemented intelligent date/time parsing using chrono-node, enhancing natural language understanding and increasing accurate scheduling by 45%." },
+      { title: "Improved full-stack auth and calendar workflows with token storage, fallback logic, and event creation flows, reducing booking errors by 50%." },
+      
     ],
-    link: "https://coversational-ai-agent.vercel.app/",
+    link: "https://ai-booking-agent-one.vercel.app/",
     image: agent,
   },
   {
